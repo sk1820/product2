@@ -1,0 +1,13 @@
+touch login.java
+git add login.java
+git status
+git commit login.java -m "my first chanes"
+git status
+git push origin master
+-----------------------------------------------------------------------
+vi xyz
+esc 
+insert - i
+exit - esc then :wq!
+git status
+git branch -a
